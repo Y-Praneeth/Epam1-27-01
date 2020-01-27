@@ -1,2 +1,1 @@
 My new git file
-Start the git to work
